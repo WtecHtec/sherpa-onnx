@@ -28,3 +28,10 @@ SPM 下载地址：
 https://github.com/WtecHtec/sherpa-onnx.git
 
 ```
+
+## xpc
+如果需要在xpc服务中安装，还有需要安装 onnxruntime 
+
+```
+https://github.com/microsoft/onnxruntime-swift-package-manager
+```
