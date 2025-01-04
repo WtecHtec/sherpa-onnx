@@ -18,7 +18,7 @@ let package = Package(
 //            name: "sherpa-onnx-framework"),
         .binaryTarget(
                     name: "sherpa-onnx",
-                    path: .public("Sources/sherpa-onnx.xcframework")  // 配置头文件目录
+                    path: "Sources/sherpa-onnx.xcframework"  // 配置头文件目录
                 )
 
     ]
